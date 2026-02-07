@@ -44,7 +44,7 @@
 
 ---
 
-## � 幕后 · 铸魂 (Behind the Scenes)
+## 🏮 幕后 · 铸魂 (Behind the Scenes)
 
 > **“这代码写的不是功能，是念想。”**
 
@@ -81,7 +81,7 @@
 
 ---
 
-## �🎨 设计规范 (Design System)
+## 🏮🎨 设计规范 (Design System)
 
 **核心风格**：漆红描金 · 暗夜游园 (Lacquer & Gold)
 
